@@ -1,3 +1,7 @@
 site_name: Payphone Club
+
+repo_url: https://github.com/payphone-club/payphone-club.github.io
+edit_uri: blob/main/docs/
+
 nav:
   - Home: index.md
