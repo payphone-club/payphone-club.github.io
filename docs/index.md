@@ -1,3 +1,7 @@
+---
+title: Payphone.club
+---
+
 # Welcome to Payphone Club
 
 Let's share information about payphones! 
