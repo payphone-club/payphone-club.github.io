@@ -23,7 +23,8 @@ jobs:
           python-version: 3.9
       - run: pip install \
             mkdocs \
-            mkdocs-image-captions
+            mkdocs-image-captions \
+            mkdocs-macros-plugin
       - run: mkdocs gh-deploy --config-file mkdocs.yml --force
  
   deploy_mkdocs:

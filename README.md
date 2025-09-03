@@ -11,7 +11,7 @@ Install the prerequisites:
 ```
 sudo apt-get update
 sudo apt-get install python3 python3-pip
-pip install mkdocs mkdocs-image-captions
+pip install mkdocs mkdocs-image-captions mkdocs-macros-plugin
 ```
 
 Clone the repo and change to the directory:

@@ -14,3 +14,4 @@ nav:
 
 plugins:
   - mkdocs-image-captions
+  - macros
