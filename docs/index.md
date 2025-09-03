@@ -1,17 +1,4 @@
-# Welcome to MkDocs
+# Welcome to Payphone Club
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+We want to share information about payphones! Whether you just want to learn about different kinds, are considering procuring one for yourself, or want to operate your own payphone organization, we are here to help!
 
-## Commands
-
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.

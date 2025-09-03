@@ -5,3 +5,11 @@ edit_uri: blob/main/docs/
 
 nav:
   - Home: index.md
+  - Identification:
+    - Identification: identification/README.md
+    - 3-Slot: identification/3-slot-payphones.md
+    - Single-Slot: identification/single-slot-payphones.md
+  - Acquisition: acquisition/README.md
+
+plugins:
+  - mkdocs-image-captions
