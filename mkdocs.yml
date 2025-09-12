@@ -12,6 +12,9 @@ nav:
     - Single-Slot: identification/single-slot-payphones.md
   - Acquisition: acquisition/README.md
 
+extra_css:
+  - style.css
+
 plugins:
   - mkdocs-image-captions
   - macros
