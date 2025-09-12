@@ -1,0 +1,12 @@
+.figure-image {
+  text-align: center;
+}
+
+.figure-image > figcaption {
+  text-align: center;
+}
+
+.figure-image > img {
+  margin-bottom: 0;
+}
+
